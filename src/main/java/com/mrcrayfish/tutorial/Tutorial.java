@@ -26,6 +26,13 @@ public class Tutorial {
 	@EventHandler
 	public void init(FMLInitializationEvent event) {
 		proxy.init();
+		proxy.init();
+		proxy.init();
+		proxy.init();
+		proxy.init();
+		proxy.init();
+		proxy.init();
+
 	}	
 	
 	@EventHandler
